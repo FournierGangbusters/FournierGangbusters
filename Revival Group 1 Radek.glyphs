@@ -2,7 +2,9 @@
 .appVersion = "1300";
 DisplayStrings = (
 "Hatno\012ndqpbqoq\012qqbpdeoc",
-A
+A,
+dbpqonv,
+n
 );
 date = "2020-03-03 09:31:11 +0000";
 familyName = "Revival Group 1";
@@ -581,7 +583,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2020-03-03 14:35:33 +0000";
+lastChange = "2020-03-03 14:45:19 +0000";
 layers = (
 {
 background = {
@@ -589,27 +591,50 @@ paths = (
 {
 closed = 1;
 nodes = (
-"25 13 LINE",
-"220 13 LINE",
-"224 44 LINE",
-"116 53 LINE",
-"21 44 LINE"
+"135 74 LINE",
+"166 40 OFFCURVE",
+"204 0 OFFCURVE",
+"267 0 CURVE SMOOTH",
+"366 0 OFFCURVE",
+"440 94 OFFCURVE",
+"440 243 CURVE SMOOTH",
+"440 422 OFFCURVE",
+"334 487 OFFCURVE",
+"245 487 CURVE SMOOTH",
+"202 487 OFFCURVE",
+"159 476 OFFCURVE",
+"130 455 CURVE",
+"141 418 LINE",
+"165 439 OFFCURVE",
+"199 448 OFFCURVE",
+"229 448 CURVE SMOOTH",
+"299 448 OFFCURVE",
+"356 405 OFFCURVE",
+"356 250 CURVE SMOOTH",
+"356 139 OFFCURVE",
+"314 54 OFFCURVE",
+"237 54 CURVE SMOOTH",
+"202 54 OFFCURVE",
+"171 73 OFFCURVE",
+"144 104 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"81 650 LINE",
-"81 26 LINE",
-"151 26 LINE",
-"151 652 LINE",
-"148 658 LINE",
-"148 740 LINE",
-"133 746 LINE",
-"105 720 OFFCURVE",
-"71 704 OFFCURVE",
-"37 694 CURVE",
-"37 667 LINE"
+"215 701 LINE",
+"215 728 LINE",
+"169 735 OFFCURVE",
+"127 753 OFFCURVE",
+"99 772 CURVE",
+"81 766 LINE",
+"81 59 LINE",
+"16 49 LINE",
+"16 17 LINE",
+"148 0 LINE",
+"148 82 LINE",
+"151 88 LINE",
+"151 684 LINE"
 );
 }
 );
@@ -629,10 +654,10 @@ nodes = (
 "318 52 OFFCURVE",
 "248 52 CURVE SMOOTH",
 "207 52 OFFCURVE",
-"166 71 OFFCURVE",
-"132 114 CURVE",
-"118 98 LINE",
-"132 47 OFFCURVE",
+"178 63 OFFCURVE",
+"144 104 CURVE",
+"135 74 LINE",
+"145 54 OFFCURVE",
 "194 0 OFFCURVE",
 "255 0 CURVE SMOOTH",
 "354 0 OFFCURVE",
@@ -650,10 +675,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"81 60 LINE",
-"21 44 LINE",
-"25 13 LINE",
-"144 14 LINE",
+"81 58 LINE",
+"16 47 LINE",
+"16 15 LINE",
+"148 6 LINE",
 "147 65 LINE",
 "151 79 LINE",
 "151 766 LINE",
@@ -683,7 +708,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2020-03-03 14:35:27 +0000";
+lastChange = "2020-03-03 14:47:10 +0000";
 layers = (
 {
 background = {
@@ -756,22 +781,22 @@ paths = (
 closed = 1;
 nodes = (
 "309 73 OFFCURVE",
-"278 62 OFFCURVE",
-"243 62 CURVE SMOOTH",
-"166 62 OFFCURVE",
+"278 54 OFFCURVE",
+"243 54 CURVE SMOOTH",
+"166 54 OFFCURVE",
 "124 139 OFFCURVE",
 "124 250 CURVE SMOOTH",
 "124 405 OFFCURVE",
-"180 448 OFFCURVE",
-"250 448 CURVE SMOOTH",
-"280 448 OFFCURVE",
-"314 439 OFFCURVE",
-"338 418 CURVE",
-"349 455 LINE",
-"320 476 OFFCURVE",
-"277 487 OFFCURVE",
-"234 487 CURVE SMOOTH",
-"135 487 OFFCURVE",
+"181 448 OFFCURVE",
+"251 448 CURVE SMOOTH",
+"281 448 OFFCURVE",
+"315 439 OFFCURVE",
+"339 418 CURVE",
+"350 455 LINE",
+"321 476 OFFCURVE",
+"278 487 OFFCURVE",
+"235 487 CURVE SMOOTH",
+"146 487 OFFCURVE",
 "40 422 OFFCURVE",
 "40 243 CURVE SMOOTH",
 "40 94 OFFCURVE",
@@ -788,10 +813,10 @@ closed = 1;
 nodes = (
 "329 88 LINE",
 "332 82 LINE",
-"332 0 LINE",
-"464 17 LINE",
-"464 49 LINE",
-"399 59 LINE",
+"332 6 LINE",
+"464 15 LINE",
+"464 47 LINE",
+"399 57 LINE",
 "399 766 LINE",
 "381 772 LINE",
 "353 753 OFFCURVE",
@@ -1294,7 +1319,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2020-03-03 14:35:39 +0000";
+lastChange = "2020-03-03 14:47:01 +0000";
 layers = (
 {
 background = {
@@ -1406,9 +1431,9 @@ closed = 1;
 nodes = (
 "16 -240 LINE",
 "211 -240 LINE",
-"215 -209 LINE",
-"107 -200 LINE",
-"12 -209 LINE"
+"215 -205 LINE",
+"107 -196 LINE",
+"12 -205 LINE"
 );
 },
 {
@@ -1435,7 +1460,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2020-03-03 14:35:43 +0000";
+lastChange = "2020-03-03 14:47:06 +0000";
 layers = (
 {
 background = {
@@ -1443,11 +1468,11 @@ paths = (
 {
 closed = 0;
 nodes = (
-"389 428 LINE",
-"449 444 LINE",
-"445 475 LINE",
-"326 474 LINE",
-"323 423 LINE"
+"399 428 LINE",
+"459 444 LINE",
+"455 475 LINE",
+"336 474 LINE",
+"333 423 LINE"
 );
 }
 );
@@ -1456,24 +1481,24 @@ backgroundImage = {
 crop = "{{0, 0}, {320, 611}}";
 imagePath = "../../../Desktop/Screen Shot 2020-03-03 at 14.06.07.png";
 locked = "1";
-transform = "{1.44802, 0, 0, 1.44802, 30, -336}";
+transform = "{1.44802, 0, 0, 1.44802, 40, -336}";
 };
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
 paths = (
 {
 closed = 1;
 nodes = (
-"263 -240 LINE",
-"458 -240 LINE",
-"462 -209 LINE",
-"354 -200 LINE",
-"259 -209 LINE"
+"273 -240 LINE",
+"468 -240 LINE",
+"472 -205 LINE",
+"364 -196 LINE",
+"269 -205 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"299 70 OFFCURVE",
+"309 70 OFFCURVE",
 "278 49 OFFCURVE",
 "243 49 CURVE SMOOTH",
 "166 49 OFFCURVE",
@@ -1483,10 +1508,10 @@ nodes = (
 "170 440 OFFCURVE",
 "230 440 CURVE SMOOTH",
 "260 440 OFFCURVE",
-"296 424 OFFCURVE",
-"328 368 CURVE",
-"342 375 LINE",
-"322 464 OFFCURVE",
+"306 424 OFFCURVE",
+"338 368 CURVE",
+"352 375 LINE",
+"332 464 OFFCURVE",
 "270 487 OFFCURVE",
 "227 487 CURVE SMOOTH",
 "138 487 OFFCURVE",
@@ -1496,26 +1521,26 @@ nodes = (
 "114 0 OFFCURVE",
 "213 0 CURVE SMOOTH",
 "276 0 OFFCURVE",
-"313 37 OFFCURVE",
-"335 71 CURVE",
-"326 101 LINE"
+"323 37 OFFCURVE",
+"345 71 CURVE",
+"336 101 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"389 -220 LINE",
-"389 433 LINE",
-"443 446 LINE",
-"441 474 LINE",
-"327 474 LINE",
-"323 410 LINE",
-"319 396 LINE",
-"319 -220 LINE"
+"399 -220 LINE",
+"399 433 LINE",
+"453 445 LINE",
+"452 473 LINE",
+"337 479 LINE",
+"333 410 LINE",
+"329 396 LINE",
+"329 -220 LINE"
 );
 }
 );
-width = 453;
+width = 463;
 }
 );
 unicode = 0071;
@@ -1606,9 +1631,33 @@ unicode = 0075;
 },
 {
 glyphname = v;
+lastChange = "2020-03-03 14:50:10 +0000";
 layers = (
 {
+backgroundImage = {
+crop = "{{0, 0}, {341, 436}}";
+imagePath = "../../../Desktop/Screen Shot 2020-03-03 at 14.48.17.png";
+locked = "1";
+transform = "{1.33764, 0, 0, 1.33764, 0, -60.174}";
+};
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
+paths = (
+{
+closed = 1;
+nodes = (
+"131 474 LINE",
+"270 122 LINE",
+"239 122 LINE",
+"352 474 LINE",
+"392 474 LINE",
+"244 10 LINE SMOOTH",
+"240 -2 OFFCURVE",
+"234 -2 OFFCURVE",
+"229 10 CURVE SMOOTH",
+"51 474 LINE"
+);
+}
+);
 width = 600;
 }
 );
