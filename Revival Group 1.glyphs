@@ -1,5 +1,5 @@
 {
-.appVersion = "1296";
+.appVersion = "1192";
 DisplayStrings = (
 Hatnod,
 A
@@ -21,7 +21,7 @@ xHeight = 474;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2020-03-03 10:31:26 +0000";
+lastChange = "2020-03-03 13:43:36 +0000";
 layers = (
 {
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
@@ -31,8 +31,8 @@ closed = 1;
 nodes = (
 "79 700 LINE",
 "79 1 LINE",
-"393 1 LINE",
-"393 700 LINE"
+"393 81 LINE",
+"393 780 LINE"
 );
 },
 {
@@ -47,17 +47,17 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"459 474 LINE",
-"459 0 LINE",
-"793 0 LINE",
-"793 474 LINE"
+"459 554 LINE",
+"459 80 LINE",
+"793 80 LINE",
+"793 554 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"1254 474 LINE",
-"1254 0 LINE",
+"1254 554 LINE",
+"1254 80 LINE",
 "1566 0 LINE",
 "1566 474 LINE"
 );
@@ -74,10 +74,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"856 474 LINE",
-"856 -230 LINE",
-"1190 -230 LINE",
-"1190 474 LINE"
+"856 554 LINE",
+"856 -150 LINE",
+"1190 -150 LINE",
+"1190 554 LINE"
 );
 }
 );
