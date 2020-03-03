@@ -1631,7 +1631,7 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2020-03-03 14:50:10 +0000";
+lastChange = "2020-03-03 14:55:30 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1648,10 +1648,10 @@ nodes = (
 "131 474 LINE",
 "270 122 LINE",
 "239 122 LINE",
-"352 474 LINE",
-"392 474 LINE",
+"382 474 LINE",
+"422 474 LINE",
 "244 10 LINE SMOOTH",
-"240 -2 OFFCURVE",
+"239 -2 OFFCURVE",
 "234 -2 OFFCURVE",
 "229 10 CURVE SMOOTH",
 "51 474 LINE"
