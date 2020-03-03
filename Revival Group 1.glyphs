@@ -1,13 +1,19 @@
 {
 .appVersion = "1300";
 DisplayStrings = (
-Hatnod,
+"Hatno\012ndpbq",
 A
 );
 date = "2020-03-03 09:31:11 +0000";
 familyName = "Revival Group 1";
 fontMaster = (
 {
+alignmentZones = (
+"{700, 13}",
+"{474, 13}",
+"{0, -13}",
+"{-224, -13}"
+);
 ascender = 700;
 capHeight = 700;
 descender = -224;
@@ -594,7 +600,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2020-03-03 11:51:29 +0000";
+lastChange = "2020-03-03 13:49:15 +0000";
 layers = (
 {
 background = {
@@ -655,7 +661,136 @@ nodes = (
 }
 );
 };
+backgroundImage = {
+crop = "{{0, 0}, {403, 698}}";
+imagePath = "../../../Desktop/Screen Shot 2020-03-03 at 11.08.51.png";
+locked = "1";
+transform = "{1.34161, 0, 0, 1.34161, -35, -112}";
+};
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
+paths = (
+{
+closed = 1;
+nodes = (
+"316 60 OFFCURVE",
+"285 47 OFFCURVE",
+"250 47 CURVE SMOOTH",
+"163 47 OFFCURVE",
+"124 132 OFFCURVE",
+"124 243 CURVE SMOOTH",
+"124 398 OFFCURVE",
+"197 445 OFFCURVE",
+"267 445 CURVE SMOOTH",
+"287 445 OFFCURVE",
+"319 440 OFFCURVE",
+"345 415 CURVE",
+"356 452 LINE",
+"317 468 OFFCURVE",
+"294 484 OFFCURVE",
+"251 484 CURVE SMOOTH",
+"152 484 OFFCURVE",
+"40 415 OFFCURVE",
+"40 236 CURVE SMOOTH",
+"40 87 OFFCURVE",
+"121 -10 OFFCURVE",
+"220 -10 CURVE SMOOTH",
+"283 -10 OFFCURVE",
+"321 27 OFFCURVE",
+"382 119 CURVE",
+"343 91 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"336 75 LINE",
+"340 69 LINE",
+"340 -1 LINE",
+"471 4 LINE",
+"471 36 LINE",
+"406 46 LINE",
+"406 700 LINE",
+"388 706 LINE",
+"360 691 OFFCURVE",
+"326 675 OFFCURVE",
+"292 665 CURVE",
+"287 656 OFFCURVE",
+"287 647 OFFCURVE",
+"292 638 CURVE",
+"336 621 LINE"
+);
+}
+);
+width = 531;
+},
+{
+associatedMasterId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"316 60 OFFCURVE",
+"285 47 OFFCURVE",
+"250 47 CURVE SMOOTH",
+"163 47 OFFCURVE",
+"124 132 OFFCURVE",
+"124 243 CURVE SMOOTH",
+"124 398 OFFCURVE",
+"197 445 OFFCURVE",
+"267 445 CURVE SMOOTH",
+"287 445 OFFCURVE",
+"319 440 OFFCURVE",
+"345 415 CURVE",
+"356 452 LINE",
+"317 468 OFFCURVE",
+"294 484 OFFCURVE",
+"251 484 CURVE SMOOTH",
+"152 484 OFFCURVE",
+"40 415 OFFCURVE",
+"40 236 CURVE SMOOTH",
+"40 87 OFFCURVE",
+"121 -10 OFFCURVE",
+"220 -10 CURVE SMOOTH",
+"283 -10 OFFCURVE",
+"321 27 OFFCURVE",
+"382 119 CURVE",
+"343 91 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"463 41 LINE",
+"407 40 OFFCURVE",
+"406 55 OFFCURVE",
+"406 66 CURVE SMOOTH",
+"406 700 LINE",
+"389 710 LINE",
+"292 679 LINE",
+"288 670 OFFCURVE",
+"288 661 OFFCURVE",
+"292 652 CURVE",
+"336 635 LINE",
+"336 9 LINE",
+"343 0 LINE",
+"404 0 LINE",
+"426 0 OFFCURVE",
+"449 0 OFFCURVE",
+"471 4 CURVE",
+"471 36 LINE"
+);
+}
+);
+};
+backgroundImage = {
+crop = "{{0, 0}, {403, 698}}";
+imagePath = "../../../Desktop/Screen Shot 2020-03-03 at 11.08.51.png";
+locked = "1";
+transform = "{1.34161, 0, 0, 1.34161, -35, -112}";
+};
+layerId = "0DAA49D2-9D17-4B43-88B4-53A97520B8F2";
+name = "Mar 3 20, 13:48";
 paths = (
 {
 closed = 1;
