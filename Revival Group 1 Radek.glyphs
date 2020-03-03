@@ -1,9 +1,8 @@
 {
 .appVersion = "1296";
 DisplayStrings = (
-n,
-d,
-o
+"Hatno\012ndpbq",
+A
 );
 date = "2020-03-03 09:31:11 +0000";
 familyName = "Revival Group 1";
@@ -664,7 +663,7 @@ nodes = (
 };
 backgroundImage = {
 crop = "{{0, 0}, {403, 698}}";
-imagePath = "/Desktop/Screen Shot 2020-03-03 at 11.08.51.png";
+imagePath = "../Desktop/Screen Shot 2020-03-03 at 11.08.51.png";
 locked = "1";
 transform = "{1.34161, 0, 0, 1.34161, -35, -112}";
 };
@@ -784,7 +783,7 @@ nodes = (
 };
 backgroundImage = {
 crop = "{{0, 0}, {403, 698}}";
-imagePath = "/Desktop/Screen Shot 2020-03-03 at 11.08.51.png";
+imagePath = "../Desktop/Screen Shot 2020-03-03 at 11.08.51.png";
 locked = "1";
 transform = "{1.34161, 0, 0, 1.34161, -35, -112}";
 };
@@ -947,22 +946,9 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2020-03-03 13:45:13 +0000";
+lastChange = "2020-03-03 14:01:30 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"109 474 LINE",
-"109 0 LINE",
-"443 0 LINE",
-"443 474 LINE"
-);
-}
-);
-};
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
 paths = (
 {
@@ -1161,7 +1147,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2020-03-03 14:02:40 +0000";
+lastChange = "2020-03-03 14:06:49 +0000";
 layers = (
 {
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
