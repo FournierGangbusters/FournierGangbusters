@@ -1,13 +1,5 @@
 {
 .appVersion = "1296";
-DisplayStrings = (
-"agseoc\012Hatnod",
-A,
-"/o.001",
-o,
-d,
-H
-);
 date = "2020-03-03 09:31:11 +0000";
 familyName = "Revival Group 1";
 fontMaster = (
@@ -790,7 +782,7 @@ unicode = 007A;
 },
 {
 glyphname = a.001;
-lastChange = "2020-03-03 11:05:49 +0000";
+lastChange = "2020-03-03 13:56:01 +0000";
 layers = (
 {
 annotations = (
@@ -800,59 +792,6 @@ type = Circle;
 width = 30;
 }
 );
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"163 422 LINE",
-"163 40 LINE SMOOTH",
-"163 28 OFFCURVE",
-"155 24 OFFCURVE",
-"132 22 CURVE",
-"129 18 LINE",
-"129 0 LINE",
-"267 0 LINE",
-"267 18 LINE",
-"264 22 LINE",
-"241 24 OFFCURVE",
-"233 28 OFFCURVE",
-"233 40 CURVE SMOOTH",
-"233 362 LINE SMOOTH",
-"233 418 OFFCURVE",
-"288 435 OFFCURVE",
-"330 435 CURVE SMOOTH",
-"393 435 OFFCURVE",
-"428 403 OFFCURVE",
-"428 356 CURVE SMOOTH",
-"428 40 LINE SMOOTH",
-"428 28 OFFCURVE",
-"420 24 OFFCURVE",
-"397 22 CURVE",
-"394 18 LINE",
-"394 0 LINE",
-"532 0 LINE",
-"532 18 LINE",
-"529 22 LINE",
-"506 24 OFFCURVE",
-"498 28 OFFCURVE",
-"498 40 CURVE SMOOTH",
-"498 374 LINE SMOOTH",
-"498 462 OFFCURVE",
-"432 494 OFFCURVE",
-"375 494 CURVE SMOOTH",
-"308 494 OFFCURVE",
-"254 452 OFFCURVE",
-"213 400 CURVE",
-"233 349 LINE",
-"233 497 LINE",
-"228 502 LINE",
-"126 459 LINE",
-"126 440 LINE"
-);
-}
-);
-};
 layerId = "CC0E4412-57E2-497A-B5C2-19103C5E4EC2";
 paths = (
 {
